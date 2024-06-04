@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: Verdana, sans-serif;
+  padding: 1% 5%;
+}
+
+/* .background {
+  background-color: pink;
+} */
+
+a {
+  text-decoration: none;
+  color: green;
+  font-size: 14px;
+  margin: 1rem 0;
+  display: block;
+  width: fit-content;
+  font-weight: bold;
+}
+
+a:hover {
+  color: blue;
+}
+
+p {
+  font-size: 14px;
+}
