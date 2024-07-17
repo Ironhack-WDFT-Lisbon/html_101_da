@@ -2,8 +2,8 @@
 
 ## Lesson Slides:
 
-[HTML](https://docs.google.com/presentation/d/1XkpCZ_Ki2xBFQuG4El71maZ2t6CV_cOr3DI_-N9giLA/edit?usp=drive_link)\
-[CSS](https://docs.google.com/presentation/d/1xq5PPnbYax9AISfOlSLBFySdGetnQcCHjFCGQMKLkoA/edit?usp=drive_link)
+[HTML Lesson](https://docs.google.com/presentation/d/1XkpCZ_Ki2xBFQuG4El71maZ2t6CV_cOr3DI_-N9giLA/edit?usp=drive_link)\
+[CSS Lesson](https://docs.google.com/presentation/d/1xq5PPnbYax9AISfOlSLBFySdGetnQcCHjFCGQMKLkoA/edit?usp=drive_link)
 
 ## Usedul Terminal Commands
 
@@ -46,5 +46,5 @@
 
 ### MDN Web Docs:
 
-[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)\
-[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[HTML - Web MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)\
+[CSS - Web MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
